@@ -1,0 +1,7 @@
+Carrie
+Genre: novel
+Autor`s name: Stephen
+Autor`s surname: King
+Year of writing the book: 1974
+Number of pages: 224
+Anotation: nothing ---
